@@ -1,4 +1,3 @@
 # hello-world
-Just a test
-
 To understand things beter.
+This is just a test.
